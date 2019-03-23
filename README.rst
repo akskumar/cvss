@@ -3,7 +3,7 @@ CVSS
 
 .. image:: https://img.shields.io/travis/skontar/cvss/master.svg
    :target: https://travis-ci.org/skontar/cvss/
-   :alt: Travis CI test status
+   :alt: Travis CI test statuss
 
 This Python package contains CVSS v2 and v3 computation utilities and
 interactive calculator compatible with both Python 2 and Python 3.
